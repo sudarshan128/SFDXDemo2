@@ -1,0 +1,219 @@
+[
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500270281164,
+            "changeTime": 1500270281164,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500270281164,
+            "changeTime": 1500270281164,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500271189554,
+            "changeTime": 1500271189554,
+            "contentHash": "2270d5c541f734a0f96529fc89b4af958ffb3dda"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500270750874,
+            "changeTime": 1500270750874,
+            "contentHash": "b58d148444e5f0be407b8498df411c97dac1addb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500270750882,
+            "changeTime": 1500270750882,
+            "contentHash": "c0b9a0fc926b8a1efdf34d4d331a8de6be0ce692",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5.cmp",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1500270750875,
+            "changeTime": 1500270750875,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1500270750876,
+            "changeTime": 1500270750876,
+            "contentHash": "ea5b3d2b001584533c68d05f6fa0b0391a796c10",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5.css",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1500270750879,
+            "changeTime": 1500270750879,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5Controller.js",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5Controller.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1500270750877,
+            "changeTime": 1500270750877,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5Helper.js",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5Helper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1500270750878,
+            "changeTime": 1500270750878,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5Renderer.js",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\aura\\SudDemoLight5\\SudDemoLight5Renderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1500270750882,
+            "changeTime": 1500270750882,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2",
+        {
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1500270532950,
+            "changeTime": 1500270532950,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\pages\\TestApex4.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\pages\\TestApex4.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1500271189556,
+            "changeTime": 1500271189556,
+            "contentHash": "aabf73f6720f1c7a1673b7f795fc4913f0462c6e"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\pages\\TestApex4.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\pages\\TestApex4.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 164,
+            "modifiedTime": 1500271189558,
+            "changeTime": 1500271189558,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306"
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sudarshan\\Desktop\\SFD\\SFDXDemo2\\SFDXDEMO2\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500271189558,
+            "changeTime": 1500271189558,
+            "contentHash": "f490ec0b80508a9ef47b0349e76f217e5c98d480"
+        }
+    ]
+]
